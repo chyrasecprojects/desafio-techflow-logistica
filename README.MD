@@ -21,3 +21,8 @@ O sistema permite o controle completo (CRUD) de entregas e tarefas, incluindo t√
 2. No terminal, execute: `python main.py`
 
 3. Para rodar os testes: `python test_main.py`
+
+
+
+1
+
