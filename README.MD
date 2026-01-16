@@ -19,4 +19,5 @@ O sistema permite o controle completo (CRUD) de entregas e tarefas, incluindo t√
 ## Como Executar
 1. Certifique-se de ter o Python 3 instalado.
 2. No terminal, execute: `python main.py`
+
 3. Para rodar os testes: `python test_main.py`
