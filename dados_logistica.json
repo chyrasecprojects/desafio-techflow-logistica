@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "titulo": "Entrega Bairro Norte",
+        "prioridade": "Alta",
+        "prazo": "2025-12-01",
+        "status": "A Fazer"
+    },
+    {
+        "id": 2,
+        "titulo": "Teste de Crud no terminal",
+        "prioridade": "Alta",
+        "prazo": "01/12/2026",
+        "status": "A Fazer"
+    }
+]
